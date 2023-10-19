@@ -9,7 +9,7 @@ function decimalToBinary(num) {
 	if(num ===1){
 		out = 1 + out ;
 	}
-  
+  return out ;
 }
 
 window.decimalToBinary = decimalToBinary;
